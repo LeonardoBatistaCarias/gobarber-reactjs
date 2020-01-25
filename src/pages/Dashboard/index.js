@@ -2,6 +2,6 @@ import React from 'react';
 
 // import { Container } from './styles';
 
-export default function SignUp() {
+export default function Dashboard() {
   return <div />;
 }
